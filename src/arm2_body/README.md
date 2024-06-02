@@ -1,2 +1,2 @@
-### fep_minimize_simple
-- メインのシミュレーションコード
+### メインのシミュレーションコード
+fe_minimize_simple.py
