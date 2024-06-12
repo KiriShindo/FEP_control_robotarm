@@ -27,7 +27,7 @@
 - **GPU**: GeForce RTX™ 4060 Ti 16GB
 
 ## シミュレーションの様子
-###通常状態のシミュレーション
+### 通常状態のシミュレーション
 *＜アームのシミュレーション＞*
 ![movie_with_image](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/9abaa510-e897-49c8-a372-6146843dafc2)
 
@@ -37,7 +37,7 @@
 *＜2つを合わせた動画＞*
 ![combined](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/46cf7b2f-9c8d-46a7-aeff-ae7583b0224b)
 
-###アーム長が変化した後のシミュレーション
+### アーム長が変化した後のシミュレーション
 *＜アームのシミュレーション＞*
 ![movie_with_image_1](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/73c1c0f2-380b-429c-bbfb-3c4c978abb1c)
 
