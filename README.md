@@ -8,7 +8,6 @@
 自由エネルギー原理に従う生物は，外界の物理法則を脳内で模倣し，外界の事象を再現している．
 そして，外界から得られる感覚情報と再現される感覚情報の誤差が小さくなるように，自己の認識の更新や行動選択を行っている．  
 ![スクリーンショット 2024-06-06 151637](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/655929f5-197d-452c-acef-dee858845291)
-https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/707a324e-4b3c-4499-986c-2c7d384a5a9d
 
 ## 構成
 ### fig フォルダ
