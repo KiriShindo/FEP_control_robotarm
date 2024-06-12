@@ -28,3 +28,4 @@
 
 ## シミュレーションの様子
 ![movie_with_image](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/9abaa510-e897-49c8-a372-6146843dafc2)
+*通常状態のシミュレーションの様子*
