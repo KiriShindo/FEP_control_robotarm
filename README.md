@@ -29,21 +29,27 @@
 ## シミュレーションの様子
 ### 通常状態のシミュレーション
 *＜アームのシミュレーション＞*
+
 ![movie_with_image](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/9abaa510-e897-49c8-a372-6146843dafc2)
 
 *＜誤差平面上の軌跡：青い場所ほどMSEが大きく，赤い場所ほどMSEが小さい＞*
+
 ![error_field](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/cbe6ce5d-d285-429d-92a7-cbb6d4a3edd7)
 
 *＜2つを合わせた動画＞*
+
 ![combined](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/46cf7b2f-9c8d-46a7-aeff-ae7583b0224b)
 
 ### アーム長が変化した後のシミュレーション
 *＜アームのシミュレーション＞*
+
 ![movie_with_image_1](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/73c1c0f2-380b-429c-bbfb-3c4c978abb1c)
 
 *＜誤差平面上の軌跡：青い場所ほどMSEが大きく，赤い場所ほどMSEが小さい＞*
+
 ![error_field_p2_1](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/86dd8f5b-7658-4b82-a8f6-23e6a26f82e8)
 
 *＜2つを合わせた動画＞*
+
 ![combined (1)](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/72361f9a-cbd8-4bad-b99a-11f70a46d4a3)
 
