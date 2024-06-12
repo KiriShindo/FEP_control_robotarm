@@ -36,9 +36,9 @@
 
 ![error_field](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/cbe6ce5d-d285-429d-92a7-cbb6d4a3edd7)
 
-*＜2つを合わせた動画＞*
+[](*＜2つを合わせた動画＞*)
 
-![combined](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/46cf7b2f-9c8d-46a7-aeff-ae7583b0224b)
+[](![combined](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/46cf7b2f-9c8d-46a7-aeff-ae7583b0224b))
 
 ### アーム長が変化した後のシミュレーション
 *＜アームのシミュレーション＞*
@@ -49,7 +49,7 @@
 
 ![error_field_p2_1](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/86dd8f5b-7658-4b82-a8f6-23e6a26f82e8)
 
-*＜2つを合わせた動画＞*
+[](*＜2つを合わせた動画＞*)
 
-![combined (1)](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/72361f9a-cbd8-4bad-b99a-11f70a46d4a3)
+[](![combined (1)](https://github.com/KiriShindo/FEP_control_robotarm/assets/170800970/72361f9a-cbd8-4bad-b99a-11f70a46d4a3))
 
